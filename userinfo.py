@@ -1,0 +1,2 @@
+username="[EMAIL_ADDRESS]"
+password="[PASSWORD]"
